@@ -11,7 +11,7 @@ import csv
 from unittest import result
 
 # Set the path of 64 bit NetSim Binaries to be used for simulation.
-NETSIM_PATH = "C:\\Users\\MIC\\Documents\\NetSim\\Workspaces\\TTTLogsUpdate\\bin_x64"
+NETSIM_PATH = "C:\\Users\\Peter\\Documents\\NetSim\\Workspaces\\14_0_34std\\bin_x64"
 
 # Floating on-premise License
 LICENSE_ARG = "5053@192.168.0.9"
